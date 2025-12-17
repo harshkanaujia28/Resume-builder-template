@@ -4,8 +4,8 @@ import { Sparkles, Shield, Download, LayoutTemplate } from "lucide-react";
 const features = [
   {
     icon: Sparkles,
-    title: "AI-Ready Structure",
-    description: "Smart sections and content suggestions powered by AI help you write compelling professional summaries and bullet points.",
+    title: "Smart Resume Structure",
+    description: "SWell-organized sections and guided content placeholders help you create clear, professional summaries and bullet points.",
     gradient: "from-violet-500 to-purple-600",
   },
   {

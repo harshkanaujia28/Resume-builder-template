@@ -23,7 +23,7 @@ const Navbar = () => {
             <div className="w-10 h-10 rounded-xl gradient-primary flex items-center justify-center shadow-soft group-hover:shadow-glow transition-shadow duration-300">
               <FileText className="w-5 h-5 text-primary-foreground" />
             </div>
-            <span className="text-xl font-bold text-foreground">ResumeAI</span>
+            <span className="text-xl font-bold text-foreground">Resume Builder</span>
           </Link>
 
           {/* Desktop Navigation */}

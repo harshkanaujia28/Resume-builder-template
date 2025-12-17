@@ -7,7 +7,7 @@ import heroIllustration from "@/assets/hero-illustration.png";
 const HeroSection = () => {
   const highlights = [
     "ATS-Optimized Templates",
-    "AI-Powered Suggestions",
+    "Modern Resume Builder Template",
     "Instant PDF Export",
   ];
 
