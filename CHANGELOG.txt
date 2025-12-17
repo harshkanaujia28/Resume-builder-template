@@ -1,0 +1,21 @@
+CHANGELOG
+Resume Builder Template
+
+Version 1.0.0 – Initial Release
+--------------------------------
+• Initial public release of the Resume Builder Template
+• Modern, responsive resume builder UI
+• Structured resume sections (Profile, Experience, Education, Skills)
+• ATS-friendly layout and typography
+• Built with Next.js (App Router), React, and Tailwind CSS
+• Smooth UI animations using Framer Motion
+• Fully customizable frontend components
+• Optimized for developer and agency use
+
+Notes:
+- This is a frontend-only template.
+- Backend, authentication, AI features, and real PDF generation are not included.
+- Intended for use as a base template for custom or commercial projects.
+
+Copyright © 2025
+All rights reserved.
